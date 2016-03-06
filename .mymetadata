@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DemoJSON"
+  id="myeclipse.1442301820162"
+  context-root="/DemoJSON"
+  j2ee-spec="5.0"
+  archive="DemoJSON.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
